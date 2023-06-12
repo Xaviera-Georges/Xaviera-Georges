@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xaviera-Georges
 - 👀 I’m interested in OOP, Mobile development,AI
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on some artificial intelligence projects
+- 💞️ I’m looking to collaborate on some artificial intelligence and creation of mobile app
 - 📫 How to reach me ...
 
 <!---
